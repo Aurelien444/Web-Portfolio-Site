@@ -1,0 +1,166 @@
+body
+{
+    background-color: white;
+}
+
+
+
+
+#menubar-container
+{
+    position: fixed;
+    height: 50px;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#menubar-bg
+{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: .5;
+    background-color: black;
+    position: absolute;
+}
+
+#menubar-title {
+    font-family: 'Abel',sans-serif;
+    font-size: 35px;
+    color: white;
+    float: right;
+    min-width: 165px;
+    
+}
+
+#menubar-titlePlace
+{
+    width: 20%;
+    float: left;
+}
+
+
+
+
+
+#cardtop-container
+{
+    height: 920px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #424242;
+
+}
+
+
+
+
+
+
+#cardAbout-container
+{
+    height: 600px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1565c0;
+
+}
+
+#textAboutme-container
+{
+    font-family: 'Abel',sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+#cardProfessionnalTitleProject-container
+{
+    height: 70px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #2b2b2b;
+
+}
+#cardProfessionnalProject-container
+{
+    height: 900px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #424242;
+
+}
+
+
+
+
+
+
+#cardPersonnalTitleProject-container
+{
+    height: 70px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #2b2b2b;
+
+}
+#cardPersonnalProject-container
+{
+    height: 900px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #424242;
+
+}
+
+
+
+
+
+#cardContact-container
+{
+    height: 250px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #2b2b2b;
+
+}
+#cardBottom-container
+{
+    height: 70px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #2b2b2b;
+
+}
