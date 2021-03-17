@@ -47,7 +47,7 @@ body
 
 #cardtop-container
 {
-    height: 920px;
+    height: 940px;
     width: 100%;
     top: 0;
     bottom: 0;
@@ -64,7 +64,18 @@ body
 
 #cardAbout-container
 {
-    height: 600px;
+    height: 100px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1565c0;
+
+}
+#cardAboutText-container
+{
+    height: 500px;
     width: 100%;
     top: 0;
     bottom: 0;
@@ -78,6 +89,14 @@ body
 {
     font-family: 'Abel',sans-serif;
     font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+#textAboutmeText-container
+{
+    font-family: 'Abel',sans-serif;
+    font-size: 20px;
     text-align: center;
     color: white;
 }
