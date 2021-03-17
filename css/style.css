@@ -109,7 +109,7 @@ body
 
 #textAboutme-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 50px;
     text-align: center;
     color: white;
@@ -117,7 +117,7 @@ body
 
 #textAboutmeText-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 20px;
     text-align: center;
     color: white;
@@ -169,14 +169,14 @@ body
 
 #textPro-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 50px;
     text-align: center;
     color: white;
 }
 #textProExplication-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 20px;
     text-align: center;
     color: white;
@@ -226,14 +226,14 @@ body
 }
 #textPerso-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 50px;
     text-align: center;
     color: white;
 }
 #textPersoExplication-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 20px;
     text-align: center;
     color: white;
@@ -272,14 +272,14 @@ body
 }
 #textContact-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 50px;
     text-align: center;
     color: white;
 }
 #textContactExplication-container
 {
-    font-family: 'Abel',sans-serif;
+    
     font-size: 20px;
     text-align: center;
     color: white;
