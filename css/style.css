@@ -1,6 +1,6 @@
 body
 {
-    background-color: white;
+    background-color: #424242;
 }
 
 
@@ -157,7 +157,7 @@ body
 }
 #cardProfessionnalProject-container
 {
-    height: 900px;
+    height: 800px;
     width: 100%;
     top: 0;
     bottom: 0;
@@ -201,6 +201,17 @@ body
     background-color: #424242;
 
 }
+#cardPersonnalAfterTitleProject-container
+{
+    height: 60px;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #424242;
+
+}
 
 #cardPersonnalTitleProject-container
 {
@@ -215,7 +226,7 @@ body
 }
 #cardPersonnalProject-container
 {
-    height: 900px;
+    height: 2600px;
     width: 100%;
     top: 0;
     bottom: 0;
@@ -234,6 +245,67 @@ body
 #textPersoExplication-container
 {
     
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.work-section-contents {
+    margin-left: 0;
+    margin-right: 0;
+}
+.work-item {
+    height: 350px;
+    border: 1.8px solid;
+    border-color: #545454;
+    border-radius: 5px;
+    position: relative;
+    transition: all .3s ease-in-out;
+    overflow: hidden;
+}
+.work-item-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: all .3s ease-in-out;
+}
+.boxProject
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px 4em;
+}
+.boxProject :first-child
+{
+    align-self: center;
+}
+#boxComponent
+{
+    height: 800px;
+    width: 200 px;
+    
+}
+#boxItem
+{
+    height: 400px;
+    width: 400px;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+}
+#textProjectText-container
+{
+    font-size: 20px;
+    color: white;
+}
+#textTitreProjectText-container
+{
     font-size: 20px;
     text-align: center;
     color: white;
