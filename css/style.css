@@ -322,7 +322,7 @@ body
 
 #cardContact-container
 {
-    height: 250px;
+    height: 200px;
     width: 100%;
     top: 0;
     bottom: 0;
@@ -355,4 +355,15 @@ body
     font-size: 20px;
     text-align: center;
     color: white;
+}
+.about-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px 4em;
+    width: 300px;
+    padding-left: 42%;
+}
+.about-item {
+    height: 70px;
+    width: 70px;
 }
